@@ -1,6 +1,9 @@
 # PDF Summarizer 
 
-![Project Screenshot](photos/landing_page.png)
+<p align="center">
+  <img src="photos/landing_page.png" alt="Project Screenshot" width="600">
+</p>
+
 
 ## About The Project
 
@@ -47,8 +50,8 @@ You will need Node.js, npm, and Python installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
-    cd NAAC_NBA_PDF_Summarizer
+    git clone https://github.com/MadhankumarAI/Pdf-Summarizer-Mern-stack
+    cd Pdf-Summarizer-Mern-stack
     ```
 
 2.  **Set up the Backend:**
